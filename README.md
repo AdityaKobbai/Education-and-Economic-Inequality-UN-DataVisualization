@@ -1,5 +1,7 @@
 # Enhancing Inclusive Education for Economic Equality – (UN SDG Goal 4)
 
+<img width="1123" alt="Screenshot 2024-07-18 at 9 45 57 PM" src="https://github.com/user-attachments/assets/24ad7d53-c0d0-41f0-944b-92631fa0a027">
+
 ## 1. Problem Statement
 Achieving inclusive and quality education for all and its effect on economic inequality.
 
